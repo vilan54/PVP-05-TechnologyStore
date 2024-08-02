@@ -3,7 +3,7 @@
 The SPA web application will allow the purchase of products by users.
 
 A **product** will have a name, a description, a category, an image, a price, the number of units there 
-is, an average rating, a tag and comments. These comments will have only one message.
+is, an average rating, a tag and comments. These comments will only have one message.
 
 Each **tag** will have only one name, as well as the categories.
 
